@@ -1,0 +1,28 @@
+name: ChrisConey.com
+favicon: null
+layout_spectrum: 0.3834700998850167
+typography_spectrum: 0.23571008071303368
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.09897031588479877
+  lightness: 0.5172364807222039
+  saturation: 0.31972014578059316
+  rhythmicContrast: 0.3403978554997593
+purpose: []
